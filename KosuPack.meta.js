@@ -2,7 +2,7 @@
 // @name         KOSUPACK
 // @author       Kosu
 // @namespace    local.margopanel
-// @version      0.1.9
+// @version      0.2.0
 // @description  Prywatny panel dodatków do Margonem NI
 // @match        https://*.margonem.pl/*
 // @exclude      https://www.margonem.pl/*
